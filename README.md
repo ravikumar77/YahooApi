@@ -1,5 +1,7 @@
 # YahooApi
 
+
+
 using System;
 using System.Threading.Tasks;
 using YahooFinanceApi;
